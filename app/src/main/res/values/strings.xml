@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GAD2020</string>
+    <string name="leardboard">LEARDBOARD</string>
+    <string name="submit">Submit</string>
 </resources>
